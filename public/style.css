@@ -1,0 +1,26 @@
+@import url(//fonts.googleapis.com/css?family=Lato:700);
+
+body {
+	margin:0;
+	font-family:'Lato', sans-serif;
+	color: #999;
+	margin-top:20px;
+}
+
+a, a:visited {
+	text-decoration:none;
+}
+
+h1 {
+	font-size: 32px;
+	margin: 16px 0 0 0;
+}
+
+
+.padding-l0 {
+	padding:0 10px 10px 0;
+}
+
+.padding-r0 {
+	padding:0;
+}
